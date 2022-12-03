@@ -1,0 +1,2 @@
+Name:LTC 5106
+Capacity:200
