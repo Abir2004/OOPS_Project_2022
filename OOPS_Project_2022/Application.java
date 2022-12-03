@@ -356,7 +356,7 @@ public class Application {
                         s2 += arr[i];
                         s2 += ";";
                     }
-                    s2 += Date.TimeProcess(finaltime) + ":";
+                    s2 += Date.TimeProcess(finaltime) + ";";
                     s2 += "Status;True";
                     output.println(s2);
                 } else {
